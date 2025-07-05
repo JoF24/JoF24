@@ -1,8 +1,12 @@
-<h1 align="center">Hi there, I'm Jo F 👋</h1>
+<h1 align="center">Hi there, I'm Jo Ferdinan 👋</h1>
 
 <p align="center">
   🎓 <strong>Mahasiswa Sistem Informasi</strong> | 💻 <strong>Full Stack Web Developer</strong> <br>
   📍 Universitas Jember | 🌱 Passionate about tech that impacts society
+</p>
+
+<p align="center">
+  <img src="https://github.com/JoF24/JoF24/assets/placeholder/animated-coding.gif" width="60%" alt="coding gif"/>
 </p>
 
 ---
@@ -40,12 +44,11 @@ Saya telah menyelesaikan Studi Independen Bersertifikat di **Binar Academy** seb
 
 ---
 
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JoF24&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoF24&layout=compact&theme=radical" alt="Top Languages" height="180"/>
 </p>
 
 ---
@@ -53,13 +56,13 @@ Saya telah menyelesaikan Studi Independen Bersertifikat di **Binar Academy** seb
 ### 🚀 Let’s Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin/">
+  <a href="https://www.linkedin.com/in/joeferdinan/">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:ferdi24joe@gmail.com">
     <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/your-github-username">
+  <a href="https://github.com/JoF24">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" />
   </a>
 </p>
