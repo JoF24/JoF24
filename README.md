@@ -40,25 +40,6 @@ Saya telah menyelesaikan Studi Independen Bersertifikat di **Binar Academy** seb
 
 ---
 
-### 🌟 Featured Projects
-
-#### 💓 Sistem Klasifikasi Penyakit Jantung
-> Web App berbasis **Machine Learning (Random Forest)** untuk membantu tenaga medis dalam pengambilan keputusan cepat terhadap potensi risiko penyakit jantung.  
-Tech: Flask, Scikit-learn, HTML/CSS/JS, Chart.js  
-🌐 *Status: Finalized*
-
-#### 🗺️ Sistem Informasi Geospasial Berbasis QGIS
-> WebGIS berbasis QGIS dan PostgreSQL/PostGIS untuk **visualisasi spasial** dan **analisis lokasi** dalam mendukung pengambilan keputusan pembangunan berbasis data spasial.  
-🌐 *Status: Sedang dikembangkan untuk skripsi*
-
----
-
-### 🏛️ Organizational Leadership
-
-📌 **Ketua Umum BEM Fakultas Ilmu Komputer - Universitas Jember**  
-→ Memimpin lembaga legislatif mahasiswa dan menginisiasi berbagai program advokasi, pengembangan potensi, dan penguatan peran mahasiswa.
-
----
 
 ### 📊 GitHub Stats
 
