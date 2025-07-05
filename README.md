@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Jo Ferdinan 👋</h1>
+<h1 align="center">Hi there, I'm Joe Ferdinan 👋</h1>
 
 <p align="center">
   🎓 <strong>Mahasiswa Sistem Informasi</strong> | 💻 <strong>Full Stack Web Developer</strong> <br>
@@ -13,7 +13,7 @@
 
 ### 🧑‍💻 About Me
 
-Saya adalah mahasiswa **Sistem Informasi** di Fakultas Ilmu Komputer Universitas Jember dengan fokus pada **pengembangan web** dan **solusi digital berbasis data & spasial**.  
+Saya adalah mahasiswa **Sistem Informasi** di Fakultas Ilmu Komputer Universitas Jember dengan fokus pada **pengembangan web** dan **solusi digital berbasis data**.  
 Saya telah menyelesaikan Studi Independen Bersertifikat di **Binar Academy** sebagai **Full Stack Web Developer**.
 
 ---
