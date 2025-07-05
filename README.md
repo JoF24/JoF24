@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/JoF24/JoF24/assets/placeholder/animated-coding.gif" width="60%" alt="coding gif"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="60%" alt="coding gif"/>
 </p>
 
 ---
